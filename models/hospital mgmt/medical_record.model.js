@@ -1,5 +1,8 @@
-import mongoose from "mongoose"
+import mongoose from "mongoose";
 
-const doctorSchema = new mongoose.Schema({})
+const medicalRecordSchema = new mongoose.Schema({});
 
-export const Doctor = mongooose.model("Doctor", doctorSchema)
+export const MedicalRecord = mongoose.model(
+  "MedicalRecord",
+  medicalRecordSchema
+);
