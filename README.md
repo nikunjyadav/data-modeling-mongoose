@@ -1,7 +1,5 @@
-# Simple express demo
+this is a made for learning data modeling in mongoose 
 
-> Express: fast, unopinionated, minimalist web framework for Node.js
+in accordance with chai aur code backend dev series,
 
-This project shows a simple express server serving a single HTML page and using `express.static` to serve static files.
-
-Check out the [express documentation](https://expressjs.com/) for more information.
+here i can revise data modeling concepts
